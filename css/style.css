@@ -1,0 +1,21 @@
+#header-menu
+{
+    background-color: #d6d6d4;
+}
+.uofs-jumbotron-profile {
+    background-size: cover;
+    background-position: center center;
+    padding: 17% 0 0;
+    background-image: url('../images/banner.jpg');
+}
+.uofs-jumbotron-profile+section[role="banner"] .profile-image {
+    max-width: 200px;
+    margin-top: -170px;
+}
+figure:not(.uofs-pull-left):not(.uofs-pull-right) {
+    width: 100%;
+}
+.list li
+{
+    padding-bottom: 10px;
+}
