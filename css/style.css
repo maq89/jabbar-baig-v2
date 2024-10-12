@@ -1,4 +1,7 @@
 
+body > :first-child{
+    display: none !important;
+}
 #header-menu
 {
     background-color: #d6d6d4;
